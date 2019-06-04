@@ -1,0 +1,9 @@
+﻿Area： 1-10
+Clinic：1-10
+PetOwner：1-200
+HealthCareOrganization: 1-5
+AnimalType:1-2
+Pet:1-300
+Doctor: 1-20
+staff:1-20
+HomelessReport:1-1000
